@@ -3,7 +3,10 @@
 Computer Vision course project implementing a complete histopathology image registration pipeline for Whole Slide Images (WSI) acquired with different stainings.
 
 Repository: https://github.com/Gabry993/CV-2026
+
 Checkout the [poster](poster_compressed.pdf)
+
+![Poster JPEG](poster_compressed.jpeg)
 
 ---
 
