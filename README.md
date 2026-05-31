@@ -6,8 +6,8 @@ Checkout the [poster](poster_compressed.pdf)
 
 ![Poster JPEG](poster_compressed.jpg)
 
-You can also visualize the notebooks as PDF in case Github fails to render them and you can't run them.
-[code_with_openslide.pdf](code_with_openslide.pdf)
+You can also visualize the notebooks results directly if you can't run them, check the 
+[HTML](code_with_openslide.html)
 
 ---
 
