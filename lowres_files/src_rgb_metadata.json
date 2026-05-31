@@ -1,0 +1,12 @@
+{
+  "name": "src_rgb",
+  "shape": [
+    14240,
+    6592,
+    3
+  ],
+  "dtype": "uint8",
+  "nbytes": 281610240,
+  "max_chunk_bytes": 52428800,
+  "n_chunks": 6
+}
